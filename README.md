@@ -1,7 +1,8 @@
-# Flight Seat Booking (2025)
-
-A front-end web project that allows users to select flight seats and view the total cost dynamically.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-**Live Demo:** [Click here to view](https://mohanakrishnan-03.github.io/mohans-/)
+here the movie seat booking project result
+ https://mohanakrishnan-03.github.io/mohans-/
+ It is done by using HTML,CSS and JAVASCRIPT
+DETAILS:
+    In this project the user can see the cost of the total seat booking
+    and can see the selected seats number.
+    
+    
